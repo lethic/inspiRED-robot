@@ -7,5 +7,7 @@ A humanoid biped robot featured with:
    * camera
    * microphone * 2
    * speaker
-   * NeoPixel Ring
+   * NeoPixel Ring  
+
+The project home page is http://zlethic.com/red-lab/
 
